@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mounika Pushkalini
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning.
+- 🌱 I’m a 2021 passout.
 
 
 <!---
